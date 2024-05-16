@@ -1,0 +1,18 @@
+table,
+th,
+td {
+  border: 1px solid #59ab6e;
+}
+td{
+    width: 100px;
+}
+
+input {
+  margin-bottom: 10px;
+  border: 1px solid #59ab6e;
+  padding: 10px;
+}
+input:focus{
+    border: 1px solid red;
+    outline: none;
+}
